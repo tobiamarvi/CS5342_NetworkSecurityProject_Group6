@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+# course files are copyrighted; share them outside the public repo
+data/raw/
+index/
+logs/
