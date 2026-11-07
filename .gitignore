@@ -1,7 +1,11 @@
 .env
+.env.*
 .venv/
+venv/
 __pycache__/
+*.pyc
 # course files are copyrighted; share them outside the public repo
 data/raw/
 index/
 logs/
+test_*.py
